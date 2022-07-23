@@ -19,3 +19,6 @@ A chrome extension that let users manually set the band and antenna settings of 
 Saya tidak memberikan AKSES ADMIN GRATIS. Ini hanyalah alat sehingga Anda dapat mengubah pengaturan pita dan antena menggunakan akses pengguna default dari Globe. Alat ini gratis dan gratis untuk semua orang.
 
 Anda dapat kehilangan sinyal pada modem Anda ketika Anda mengganti band (risiko ini juga terjadi bahkan dengan akses admin itu sendiri). Ada banyak kemungkinan alasan mengapa hal ini terjadi, salah satunya adalah jika band yang Anda pilih tidak tersedia atau lemah di wilayah Anda. Ada kalanya sinyal benar-benar hilang bahkan di pita yang dulunya kuat. Hilangnya sinyal biasanya bersifat sementara, dan akan kembali setelah beberapa saat. Sinyal dapat hilang dalam beberapa detik atau terkadang membutuhkan waktu beberapa jam. Terkadang masalah ini diperbaiki dengan mengatur ulang atau memulai ulang modem. Gunakan alat ini hanya jika Anda memahami risiko yang terlibat. Saya sarankan membaca dan memahami apa yang tertulis dalam file license.txt sebelum menggunakan alat ini.
+
+##PESAN ADMOD
+Saya bukan pemilik dari extensi ini, saya hanya melakukan modifikasi agar extensi ini dapat digunakan oleh modem telkomsel orbit B-312, untuk kedepannya, saya akan terus mencoba untuk menyempurnakan ekstensi ini sesuai dengan kebutuhan dan masukan dari pengguna.
